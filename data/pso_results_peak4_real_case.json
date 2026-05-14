@@ -1,0 +1,39 @@
+{
+  "selected_peak_index": 4,
+  "workflow_A_decomposition_guided": {
+    "profile_ready": true,
+    "werner_ready": true,
+    "x0_init_px": 96.48498308247528,
+    "z0_init_px": 6.422452429902236,
+    "orientation": "vertical",
+    "pso_rmse_nT": 191.92051410539727,
+    "x0_shallow_px": 796.967228879717,
+    "z0_shallow_px": 5.0,
+    "x0_deep_px": 737.3318783864104,
+    "z0_deep_px": 5.637649186204661,
+    "A_shallow": 1286.1671997178755,
+    "A_deep": 1343.8024463482257,
+    "crop_window": [
+      678,
+      919
+    ],
+    "component_used": "bandpass",
+    "component_depth_px": 5.49647066232635,
+    "component_depth_m": 472.99970651612796,
+    "pixel_size_m": 86.05516804776931
+  },
+  "workflow_B_direct_unconditioned": {
+    "pso_rmse_nT": 354.75517875937544,
+    "x0_shallow_px": 79.40445646936803,
+    "z0_shallow_px": 2.746662496139401,
+    "x0_deep_px": 82.49931164127797,
+    "z0_deep_px": 20.339917439127248,
+    "A_shallow": 553.6366165773894,
+    "A_deep": 2627.847058153624,
+    "crop_window": [
+      0,
+      151
+    ],
+    "detrended": true
+  }
+}
